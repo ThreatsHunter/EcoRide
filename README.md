@@ -79,7 +79,7 @@ Ces problématiques m’ont permis de renforcer mes compétences en API REST, s�
 
 1. Cloner le dépôt
 ```txt
-git clone <repo-url>
+git clone https://github.com/ThreatsHunterPro/EcoRide.git
 cd ecoride
 ```
 
